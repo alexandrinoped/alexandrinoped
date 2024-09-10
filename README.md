@@ -20,4 +20,8 @@
   <img align="center"alt="MICROSOFT AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div><br/>
 
-Passionate about innovation and technology, continuous learning and knowledge can take us to incredible places.
+
+### 🚀 CS at Startup | 🚗 Transforming the Automotive Market | 🛠 Aspiring Data Engineer
+
+I work as a CS at an innovative startup specializing in digital solutions for car dealerships. I'm transitioning into data engineering, focusing on developing Python projects and mastering essential tools to become a data engineer. Passionate about technology, continuous learning, and digital transformation.
+
