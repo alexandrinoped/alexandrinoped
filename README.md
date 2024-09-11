@@ -4,9 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrinoped/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexandrinoped@gmail.com)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinoped&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinoped&layout=compact)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinoped&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinoped&layout=compact&theme=transparent)
 
 ## Technologies that I use in my daily life
 
