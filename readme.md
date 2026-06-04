@@ -36,6 +36,10 @@ Currently, my main focus is designing and improving data pipelines, analytical l
   &nbsp;
   <img alt="Google Analytics" title="Google Analytics" width="45px" src="./assets/icons/google-analytics.svg" />
   &nbsp;
+  <img alt="Databricks" title="Databricks" width="45px" src="./assets/icons/google-tag-manager.svg" />
+  &nbsp;
+  <img alt="Databricks" title="Databricks" width="45px" src="./assets/icons/google-data-studio.svg" />
+  &nbsp;
   <img alt="Databricks" title="Databricks" width="45px" src="./assets/icons/databricks.svg" />
 </div>
 
